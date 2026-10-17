@@ -1,0 +1,7 @@
+Interviewer: Tell me about the last time you looked for work on campus.
+Customer: Two weeks ago. I need the money for rent so it's stressful.
+Customer: I applied to 9 listings and 5 of them had already been filled. That wasted a whole weekend.
+Interviewer: What have you tried to make it easier?
+Customer: I made a spreadsheet to track which offices I'd contacted. I also joined a Discord where people post openings.
+Interviewer: What do you think of our idea for a real-time job board?
+Customer: That's cool, good luck!
